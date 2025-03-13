@@ -1,4 +1,4 @@
-**Fitness Tracker**
+**Workout-tracking-base**
 A simple and intuitive fitness tracker app built with HTML, CSS, and JavaScript. This app allows users to log their daily push-ups and crunches, track totals, view a history of entries, and use a timer for workouts. The app also saves data to localStorage so it persists across page reloads.
 
 **Features**
