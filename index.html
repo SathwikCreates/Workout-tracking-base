@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Fitness Tracker</title>
+  </head>
+  <body>
+    <main>
+      <div class="totals">
+        <h2>Totals</h2>
+        <div>
+          <p>Push-ups: <span id="totalPushups">0</span></p>
+          <p>Crunches: <span id="totalCrunches">0</span></p>
+        </div>
+      </div>
+      <div>
+        <h1>Enter new set:</h1>
+        <form>
+          <div>
+            <div>
+              <label for="pushups">Push-ups:</label>
+              <input type="number" min="0" value="" id="pushups" name="pushups" />
+            </div>
+            <div>
+              <label for="crunches">Crunches:</label>
+              <input type="number" min="0" value="" id="crunches" name="crunches" />
+            </div>
+          </div>
+          <button type="submit">Save</button>
+        </form>
+      </div>
+      <div>
+        <h2>History</h2>
+        <ul id="history"></ul>
+      </div>
+
+      <div>
+        <h2>Timer</h2>
+        <div id="timer">
+          <p id="timerDisplay">00:00</p>
+          <button id="startStopBtn">Start</button>
+          <button id="resetBtn">Reset</button>
+        </div>
+      </div>
+
+      <button id="reset">Clear all</button>
+    </main>
+    <script src="./index.js"></script>
+  </body>
+</html>
