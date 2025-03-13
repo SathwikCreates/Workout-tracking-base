@@ -16,12 +16,6 @@ A simple and intuitive fitness tracker app built with HTML, CSS, and JavaScript.
 - **CSS**: Styled with modern design principles for a clean and responsive layout.
 - **JavaScript**: Handles user interaction, form submission, data storage, and timer functionality.
 
-## Screenshots
-
-![Main Page](assets/screenshot-main.jpg)
-
-![History View](assets/screenshot-history.jpg)
-
 ## **Installation Steps**
 
 To get started, follow the **installation steps** below:
