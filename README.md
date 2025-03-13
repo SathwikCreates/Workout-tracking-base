@@ -25,12 +25,6 @@ To get started, follow the **installation steps** below:
    ```bash
    git clone https://github.com/SathwikCreates/Workout-tracking-base.git
 
-
-
-
-
-
-
 ### Breakdown:
 - **Project Title**: Describes what the app is about and what it does.
 - **Features**: Lists the core functionality of the app.
