@@ -32,11 +32,14 @@ First, you need to clone the repository to your local machine. Open your termina
 
 **bash**
 git clone https://github.com/SathwikCreates/Workout-tracking-base.git
+
+
 Navigate to the project folder:
 
 Change into the project directory using:
 
 **bash**
+
 cd Workout-tracking-base
 Open the project in your browser:
 
@@ -45,10 +48,13 @@ The app uses plain HTML, CSS, and JavaScript, so there is no need for additional
 On macOS, you can use the following command to open the project in the default browser:
 
 **bash**
+
 open index.html
 On Windows, you can simply double-click the index.html file to open it in your browser, or use the following command in the terminal (if you're using Git Bash or similar):
 
 **bash**
+
+
 start index.html
 On Linux, you can use:
 
